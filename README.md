@@ -7,14 +7,17 @@ With the dynamic table available for the user to reference UFO sightings, it’s
 
 ### Navigate to Filter Search
 First, the user will need to navigate to the Filter Search section of the webpage, in most cases this in located in the bottom left section of the page (red outlined).  The webpage is fully dynamic as well, so the Filter Search section’s exact position on the webpage could vary depending on the size of monitor being used or mobile device.  
+
 ![](images/UnfilteredUFOWebpage.png) 
 
 ### Apply Filter Arguments
 Next the user can enter as many or as few arguments into the applicable filter field.  The filters currently available for the user to use are Date, City, State, Country and Shape.  An example of the input field’s format is also displayed in grey inside the filter field box for the user to reference for the required format. 
+
 ![](images/FilterSearchSection.png) 
 
 ### View Filtered Table
 After the value is entered into the filter box the user can slimily press “Enter” and the dynamic table will respond with the filter(s) applied.
+
 ![](images/FilteredUFOWebpage.png)
 
 ## Summary
